@@ -1,11 +1,11 @@
 /*  your css code here. If applicable */
 :root {
-  --background-color: rgb(135, 206, 235);
+   --color_skyblue: rgb(135, 206, 235);
 }
 body {
   margin: 0;
   font-family: Arial, sans-serif;
-  background-color: var(--background-color); /* Use the variable for background color */
+  background-color: var( --color_skyblue); /* Use the variable for background color */
 }
  p:first-child{
 	background:black;
